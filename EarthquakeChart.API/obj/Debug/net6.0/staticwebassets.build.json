@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eEWCfIh2EA9yMmuUc8GNaTZXqiG10zul28AmzGKT2u4=",
+  "Source": "EarthquakeChart.API",
+  "BasePath": "_content/EarthquakeChart.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
